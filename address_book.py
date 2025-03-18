@@ -100,5 +100,3 @@ print(f"{john.name}: {found_phone}")  # Виведення: 5555555555
     # Видалення запису Jane
 book.delete("Jane")
 
-for name, record in book.data.items():
-    print(record)
